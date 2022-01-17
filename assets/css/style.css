@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+}
+.head{
+    height: 50px;
+    text-align: center;
+}
+.head a{
+    color: white;
+}
+.title{
+    width: 95%;
+}
+.content{
+    width: 95%;
+}
+.sidebar{
+    height: 400px;
+    width: 100%;
+}
